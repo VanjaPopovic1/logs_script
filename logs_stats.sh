@@ -3,7 +3,7 @@
 ##?  Logs Search Script
 ##?  Helper script for searching strings in log files.
 ##?  Usage:
-##?    ./logsnew.sh <log_directory> <search_string>
+##?    ./logs_stats.sh <log_directory> <search_string>
 ##? 
 ##?  Options:
 ##?    -h --help            Show this screen.
